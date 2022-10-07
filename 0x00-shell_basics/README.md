@@ -7,3 +7,4 @@ This script writes the absolute path name of the current directory
 7-movethatfile will move a file from one directory to another
 8-firstdelete will delit file in another dir
 9-firstdirdeletion delts dir in /tmp
+10-back changes working dir to previous one
