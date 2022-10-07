@@ -9,3 +9,4 @@ This script writes the absolute path name of the current directory
 9-firstdirdeletion delts dir in /tmp
 10-back changes working dir to previous one
 11-lists,listes all files from 3 different dirs
+12-file_type,will print a iles type
