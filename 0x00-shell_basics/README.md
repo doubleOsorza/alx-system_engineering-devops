@@ -4,3 +4,4 @@ This script writes the absolute path name of the current directory
  3-listfiles will list files with much detailes
 4-listmorefiles will list all files including the hiddn ones with more detailes
 6-firstdirectory creates dir in temp dir
+7-movethatfile will move a file from one directory to another
