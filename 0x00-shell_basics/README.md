@@ -11,3 +11,4 @@ This script writes the absolute path name of the current directory
 11-lists,listes all files from 3 different dirs
 12-file_type,will print a iles type
 13-symbolic_link creates symbolic link
+14-copy_html copies htm files
